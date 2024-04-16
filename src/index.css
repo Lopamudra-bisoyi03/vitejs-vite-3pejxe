@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #fffbfb; /* Black background */
+  color: #000000;
+}
+/* Container Styles */
+.container {
+  background-color: #fcfbfb; /* White box */
+  border: 2px solid #000000; /* Prominent border */
+  padding: 20px; /* Add padding */
+}
+/* Heading Styles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+/* Code Styles */
+code {
+  font-size: 1.2em;
+}
+
+/* List Styles */
+ul {
+  padding-inline-start: 20px;
+}
+
+/* Form Styles */
+label {
+  display: block;
+  margin-top: 10px; /* Increased margin */
+  margin-bottom: 10px; /* Increased margin */
+}
+
+/* Table Styles */
+th {
+  padding: 8px; /* Increased padding */
+}
+
+td {
+  padding: 6px; /* Increased padding */
+}
